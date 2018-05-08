@@ -26,6 +26,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        app:srcCompat="@drawable/if_Diamond_2647514" />
+        android:src="@drawable/if_diamond_2647514"/>
 
 </RelativeLayout>
